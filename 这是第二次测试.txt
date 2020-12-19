@@ -1,0 +1,8 @@
+没怎么看git文档，常用那么几个命令，感觉也足够了。但不知道会不会造成不良影响，比如我fork了@Livid的代码，然后我自己每次修改后用git push origin master来更新GitHub。
+
+但是看到Pull Request里面有提示：
+You're asking livid to pull 1 commit into livid:master from xinzhi:master
+
+我正在请求livid提交合并我的代码？我没想这样。。。提示顶部有段小字是Send a pull request，这个请求到底发出了没有呢？（我没点过右下方的按钮）
+
+或者还是GitHub根据代码新鲜程度自动发出的请求？我还不熟悉git协作，这点上很郁闷。
